@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ .static-image {
+     width: 100%;
+ }
