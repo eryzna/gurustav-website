@@ -14,6 +14,19 @@
  *= require_self
  */
 
- .static-image {
+body {
+    background-color:rgb(237, 28, 36);
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    color: black;
+    margin-left: 40px;
+}
+
+ static-image {
      width: 100%;
  }
