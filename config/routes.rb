@@ -4,6 +4,8 @@ Rails.application.routes.draw do
 
   get '/welcome', to: 'application#index'
 
-  get '/swaps', to: 'swaps#index', as: 'swaps'
+  get '/about', to: 'application#about'
+
+  
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end

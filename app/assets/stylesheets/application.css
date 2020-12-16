@@ -15,7 +15,7 @@
  */
 
 body {
-    background-color:rgb(237, 28, 36);
+    background-color: white;
 }
 
 img {
@@ -25,8 +25,5 @@ img {
 h1 {
     color: black;
     margin-left: 40px;
+    font-family: 
 }
-
- static-image {
-     width: 100%;
- }
